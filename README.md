@@ -22,7 +22,7 @@
 
 <pre>
 git clone https://github.com/Adarsh16-30/SecureFinanceApp.git
-cd DigiPurse
+cd SecureFinanceApp
 npm install
 </pre>
 
